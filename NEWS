@@ -12,6 +12,7 @@ ctags-@VERSION@ (@DATE@)
 * Fixed problem detecting function definitions using circumflexes for MS.NET managed types. [C++]
 * Fixed bug caused by use of strlen() where strings overlapped.
 * Enabled Large File System support. [Bug #3062068]
+* Added support for Dart language, contributed by Chris Bracken.
 
 ctags-5.8 (09 Jul 2009)
 * Removed ".ml" as a Lisp extension (now OCaml) [Lisp].

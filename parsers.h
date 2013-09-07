@@ -26,6 +26,7 @@
 	CppParser, \
 	CsharpParser, \
 	CobolParser, \
+	DartParser, \
 	DosBatchParser, \
 	EiffelParser, \
 	ErlangParser, \
